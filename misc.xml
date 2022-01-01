@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="org.codebrewer.idea.toolwindowmanager">
+    <toolwindow id="Build" preference="UNAFFECTED" />
+    <toolwindow id="Commit" preference="UNAFFECTED" />
+    <toolwindow id="DB Browser" preference="UNAFFECTED" />
+    <toolwindow id="DB Diagnostics" preference="UNAFFECTED" />
+    <toolwindow id="DB Execution Console" preference="UNAFFECTED" />
+    <toolwindow id="Event Log" preference="UNAFFECTED" />
+    <toolwindow id="Favorites" preference="UNAFFECTED" />
+    <toolwindow id="Layout Validation" preference="UNAFFECTED" />
+    <toolwindow id="Learn" preference="UNAFFECTED" />
+    <toolwindow id="Palette" preference="UNAFFECTED" />
+    <toolwindow id="Problems View" preference="UNAFFECTED" />
+    <toolwindow id="Project" preference="UNAFFECTED" />
+    <toolwindow id="Pull Requests" preference="UNAFFECTED" />
+    <toolwindow id="Services" preference="UNAFFECTED" />
+    <toolwindow id="Space Automation" preference="UNAFFECTED" />
+    <toolwindow id="Space Code Reviews" preference="UNAFFECTED" />
+    <toolwindow id="Structure" preference="UNAFFECTED" />
+    <toolwindow id="TODO" preference="UNAFFECTED" />
+    <toolwindow id="Terminal" preference="UNAFFECTED" />
+    <toolwindow id="Version Control" preference="UNAFFECTED" />
+  </component>
+</project>
